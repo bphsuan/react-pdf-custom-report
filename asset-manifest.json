@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-pdf-custom-report/static/css/main.e6c13ad2.css",
+    "main.js": "/react-pdf-custom-report/static/js/main.eaf72fde.js",
+    "static/media/MicrosoftJhengHeiRegular.ttf": "/react-pdf-custom-report/static/media/MicrosoftJhengHeiRegular.a66316b7a41b6868bf38.ttf",
+    "static/media/MicrosoftJhengHeiBold.ttf": "/react-pdf-custom-report/static/media/MicrosoftJhengHeiBold.fd53517abd0c1cd3f915.ttf",
+    "static/media/print_logo.png": "/react-pdf-custom-report/static/media/print_logo.abdbb3b498dae280c0dc.png",
+    "index.html": "/react-pdf-custom-report/index.html",
+    "static/media/default.less": "/react-pdf-custom-report/static/media/default.003f90b383291c3b90da.less",
+    "static/media/index.less": "/react-pdf-custom-report/static/media/index.512735b3dccd7d4b3088.less",
+    "main.e6c13ad2.css.map": "/react-pdf-custom-report/static/css/main.e6c13ad2.css.map",
+    "main.eaf72fde.js.map": "/react-pdf-custom-report/static/js/main.eaf72fde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.eaf72fde.js"
+  ]
+}
