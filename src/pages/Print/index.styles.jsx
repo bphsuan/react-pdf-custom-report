@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { Form as AntdForm, Radio as AntdRadio } from "antd";
+import { Form as AntdForm } from "antd";
 
 export const Section = styled.div`
   display: flex;

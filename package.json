@@ -1,6 +1,7 @@
 {
   "name": "react-pdf-custom-report",
   "version": "0.1.0",
+  "homepage": "https://bphsuan.github.io/react-pdf-custom-report",
   "private": true,
   "dependencies": {
     "@ant-design/pro-components": "^2.4.14",
@@ -8,6 +9,7 @@
     "@reduxjs/toolkit": "^1.9.5",
     "antd": "^4.24.1",
     "file-saver": "^2.0.5",
+    "gh-pages": "^5.0.0",
     "jsbarcode": "^3.11.5",
     "jszip": "^3.10.1",
     "moment": "^2.29.4",
@@ -20,7 +22,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

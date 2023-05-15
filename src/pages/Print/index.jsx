@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import { PageContainer } from "@ant-design/pro-layout";
 import { useDispatch } from "react-redux";
 import PrintTable from "./components/PrintTable";
