@@ -19,7 +19,7 @@
 
 ![demo2](./docs/assets/demo2.png)
 
-## 使用技術
+## 技術與工具
 
 - react v18
 - react-redux
